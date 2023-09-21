@@ -1,8 +1,6 @@
 # CARTCAT [CHECKOUT]
 
-![](https://)
-![](https://)
-
+![](https://i.ibb.co/tXSS3XB/logo.png)
 
 > ###### Esse projeto foi construído/desenvolvido apenas para implementações de conhecimento e tecnicas utilizadas sobre estudo de programação, CARTCAT CHECKOUT, um sistema de gestão de vendas online precisa garantir a segurança dos usuários no momento da compra.
 
