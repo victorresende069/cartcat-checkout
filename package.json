@@ -1,0 +1,12 @@
+{
+  "name": "cartcat-checkout",
+  "version": "1.0.0",
+  "description": "Esse projeto foi construído/desenvolvido apenas para implementações de conhecimento e tecnicas utilizadas sobre estudo de.",
+  "main": "src/serve.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Victor Resende",
+  "license": "ISC"
+}
